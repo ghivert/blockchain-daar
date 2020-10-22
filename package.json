@@ -1,0 +1,9 @@
+{
+  "name": "sample-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "node-rsa": "^1.1.1"
+  }
+}
