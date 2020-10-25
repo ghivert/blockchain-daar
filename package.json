@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "start": "node src/main.js"
+  },
   "dependencies": {
     "node-rsa": "^1.1.1"
   }
